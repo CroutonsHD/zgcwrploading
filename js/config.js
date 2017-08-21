@@ -92,7 +92,6 @@ var l_musicDisplay = true;
 Place how much .ogg songs you want
 (Put the files in the songs folder)*/
 var l_musicPlaylist = [
-	{ogg: "Halo 2 Anniversary OST - Breaking the Covenant.ogg", name: "Breaking the Covenant"},
 	{youtube: "i7UyXbb1m7M", name: "Battlefront 2 Trailer Theme"},
 	{youtube: "o--bLEobBFY", name: "Battle Of Heroes"},
 	{youtube: "duCjJepYaWM", name: "Star Wars Music"},
