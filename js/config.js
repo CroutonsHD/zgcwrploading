@@ -91,13 +91,12 @@ var l_musicDisplay = true;
 Place how much .ogg songs you want
 (Put the files in the songs folder)*/
 var l_musicPlaylist = [
-	{youtube: "i7UyXbb1m7M", name: "Battlefront 2 Trailer Theme"},
-	{youtube: "o--bLEobBFY", name: "Battle Of Heroes"},
-	{youtube: "duCjJepYaWM", name: "Star Wars Music"},
-	{youtube: "iiNyQD5Yq3E", name: "Vode An"},
-	{youtube: "mMIlsXKwSgQ", name: "Assualt On Theed"},
-	{youtube: "moag4Xf498c", name: "Grievous Theme"},
-	{youtube: "phk7di38iv8", name: "Isignificatia"},
+	{youtube: "_AKIsQhKFfA", name: "Hoth Ambience"},
+	{youtube: "t3tFkcW7ySk", name: "Alderaan Ambience"},
+	{youtube: "EETFlPEnBh4", name: "Calm Video Game Music"},
+	{youtube: "mXj7_zUh2ok", name: "Dark Souls Ambient"},
+	{youtube: "KpSF-awNLdc", name: "Star Wars Calm Music"},
+	{youtube: "f2oMkN3Sfiw", name: "Anakins Symphony"},
 ];
 
 /*Random music order?*/
@@ -112,14 +111,14 @@ var l_messagesEnabled = true;
 
 /*Enter your custom messages below*/
 var l_messages = [
-	"Enjoy the server",
-	"Thanks for joining us!",
-	"Clone Transport Pilot: Welcome to paradise, rock jumpers!",
-	"Captain Rex: In my book, experience outranks everything.",
-	"Sinker: We’re just clones, sir. We’re meant to be expendable.",
-	"Fives: Look around. We’re one and the same. Same heart, same blood.",
-	"Captain Rex: We’re not programmed. You have to learn to make your own decisions.",
-	"Plo Koon: When you are looking for trouble, don't be surprised if it finds you.",
+	"Welcome to Zealot Gaming and thank you for choosing us!",
+	"Thanks for joining us! We hope you enjoy your stay!",
+	"Darth Vader: I am your father.",
+	"Boba Fett: He's no good to me dead.",
+	"Storm Trooper: Blast them!",
+	"Boba Fett: You can run but you'll only die tired.",
+	"Darth Vader: You underestimate the power of the dark side.",
+	"Darth Vader: You can't hide forever...",
 ];
 
 /*Random message order?*/
