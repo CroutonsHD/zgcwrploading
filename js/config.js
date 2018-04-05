@@ -53,12 +53,11 @@ Place one or more images
 Multiple images will automatically shuffle between them
 (Put the files in the backgrounds/images folder)*/
 var l_bgImages = [
-	"uKEzyi.jpg",
-	"Uk9gTpn.jpg",
-	"RkbDEFH.jpg",
-	"maxresdefault.jpg",
-	"clone-wars-clones.jpg",
-	"ACW_IA_74404.jpg",
+	"48468-star-destroyer-star-wars-1920x1080-movie-wallpaper.jpg",
+	"YVFJlsM.jpg",
+	"star-wars-stormtrooper-4k-1920x1080.jpg",
+	"battle_of_jakku_star_wars_battlefront-1920x1080.jpg",
+	"ws_Darth_Vader_1920x1080.jpg",
 ];
 
 /*Random background images order?*/
