@@ -53,11 +53,11 @@ Place one or more images
 Multiple images will automatically shuffle between them
 (Put the files in the backgrounds/images folder)*/
 var l_bgImages = [
-	"48468-star-destroyer-star-wars-1920x1080-movie-wallpaper.jpg",
-	"YVFJlsM.jpg",
-	"star-wars-stormtrooper-4k-1920x1080.jpg",
-	"battle_of_jakku_star_wars_battlefront-1920x1080.jpg",
-	"ws_Darth_Vader_1920x1080.jpg",
+	"ARC_Troopers_group.jpg",
+	"clonecommand0.jpg",
+	"clone_troopers_wallpaper_by_volkrex-d5ic46v.jpg",
+	"Clone-Trooper-Wallpaper-1920x1080-3.jpg",
+	"RkbDEFH.jpg",
 ];
 
 /*Random background images order?*/
@@ -94,7 +94,7 @@ var l_musicPlaylist = [
 	{youtube: "_AKIsQhKFfA", name: "Hoth Ambience"},
 	{youtube: "t3tFkcW7ySk", name: "Alderaan Ambience"},
 	{youtube: "EETFlPEnBh4", name: "Calm Video Game Music"},
-	{youtube: "mXj7_zUh2ok", name: "Dark Souls Ambient"},
+	{youtube: "2pzYkJWR1WI", name: "Coruscant Music"},
 	{youtube: "KpSF-awNLdc", name: "Star Wars Calm Music"},
 	{youtube: "f2oMkN3Sfiw", name: "Anakins Symphony"},
 ];
@@ -104,7 +104,7 @@ var l_musicRandom = true;
 
 /*Music volume
 Choose a value between 0 and 100*/
-var l_musicVolume = 25;
+var l_musicVolume = 12;
 
 /*Enable custom messages?*/
 var l_messagesEnabled = true;
@@ -113,12 +113,10 @@ var l_messagesEnabled = true;
 var l_messages = [
 	"Welcome to Zealot Gaming and thank you for choosing us!",
 	"Thanks for joining us! We hope you enjoy your stay!",
-	"Darth Vader: I am your father.",
-	"Boba Fett: He's no good to me dead.",
-	"Storm Trooper: Blast them!",
-	"Boba Fett: You can run but you'll only die tired.",
-	"Darth Vader: You underestimate the power of the dark side.",
-	"Darth Vader: You can't hide forever...",
+	"Sinker: We're just Clones, sir. We're meant to be expendable .",
+	"Fives: Look around. We’re one and the same. Same heart, same blood.",
+	"Captain Rex: We’re not programmed. You have to learn to make your own decisions.",
+	"Battle Droid: Roger Roger!",
 ];
 
 /*Random message order?*/
