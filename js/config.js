@@ -53,11 +53,11 @@ Place one or more images
 Multiple images will automatically shuffle between them
 (Put the files in the backgrounds/images folder)*/
 var l_bgImages = [
-	"ARC_Troopers_group.jpg",
-	"clonecommand0.jpg",
-	"clone_troopers_wallpaper_by_volkrex-d5ic46v.jpg",
-	"Clone-Trooper-Wallpaper-1920x1080-3.jpg",
-	"RkbDEFH.jpg",
+	"resident-evil-operation-raccoon-city-20169.jpg",
+	"Resident-Evil-Operation-Raccoon-City_1920x1080 (1).jpg",
+	"apocalypse-2459465.jpg",
+	"aJc82vC.jpg",
+	"zombie-image_062451784_308.jpg",
 ];
 
 /*Random background images order?*/
@@ -91,12 +91,9 @@ var l_musicDisplay = true;
 Place how much .ogg songs you want
 (Put the files in the songs folder)*/
 var l_musicPlaylist = [
-	{youtube: "_AKIsQhKFfA", name: "Hoth Ambience"},
-	{youtube: "t3tFkcW7ySk", name: "Alderaan Ambience"},
+	{youtube: "gcnLYrxLlhU", name: "Last Of Us Title Screen"},
+	{youtube: "sDH1LyCIrAE&t", name: "Apocalyptic Music"},
 	{youtube: "EETFlPEnBh4", name: "Calm Video Game Music"},
-	{youtube: "2pzYkJWR1WI", name: "Coruscant Music"},
-	{youtube: "KpSF-awNLdc", name: "Star Wars Calm Music"},
-	{youtube: "f2oMkN3Sfiw", name: "Anakins Symphony"},
 ];
 
 /*Random music order?*/
@@ -113,10 +110,8 @@ var l_messagesEnabled = true;
 var l_messages = [
 	"Welcome to Zealot Gaming and thank you for choosing us!",
 	"Thanks for joining us! We hope you enjoy your stay!",
-	"Sinker: We're just Clones, sir. We're meant to be expendable .",
-	"Fives: Look around. We’re one and the same. Same heart, same blood.",
-	"Captain Rex: We’re not programmed. You have to learn to make your own decisions.",
-	"Battle Droid: Roger Roger!",
+	"Interested in Lore Master or Staff? Apply at our forums!",
+	"Think something is wrong with the server, we appreciate all the feedback we can get!",
 ];
 
 /*Random message order?*/
