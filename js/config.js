@@ -57,7 +57,7 @@ var l_bgImages = [
 	"Resident-Evil-Operation-Raccoon-City_1920x1080 (1).jpg",
 	"apocalypse-2459465.jpg",
 	"aJc82vC.jpg",
-	"zombie-image_062451784_308.jpg",
+	"zombie-image_062451784_308.jpg"
 ];
 
 /*Random background images order?*/
@@ -93,7 +93,7 @@ Place how much .ogg songs you want
 var l_musicPlaylist = [
 	{youtube: "gcnLYrxLlhU", name: "Last Of Us Title Screen"},
 	{youtube: "sDH1LyCIrAE&t", name: "Apocalyptic Music"},
-	{youtube: "EETFlPEnBh4", name: "Calm Video Game Music"},
+	{youtube: "EETFlPEnBh4", name: "Calm Video Game Music"}
 ];
 
 /*Random music order?*/
