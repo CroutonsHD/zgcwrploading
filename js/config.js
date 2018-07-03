@@ -91,9 +91,9 @@ var l_musicDisplay = true;
 Place how much .ogg songs you want
 (Put the files in the songs folder)*/
 var l_musicPlaylist = [
-	{youtube: "gcnLYrxLlhU", name: "Last Of Us Title Screen"},
-	{youtube: "sDH1LyCIrAE&t", name: "Apocalyptic Music"},
-	{youtube: "EETFlPEnBh4", name: "Calm Video Game Music"}
+	{youtube: "gcnLYrxLlhU&t=138s", name: "Last Of Us Title Screen"},
+	{youtube: "sDH1LyCIrAE&t=67s", name: "Apocalyptic Music"},
+	{youtube: "gUChbEq0Ljs", name: "Calm Apocalyptic Music"}
 ];
 
 /*Random music order?*/
