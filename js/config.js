@@ -10,7 +10,7 @@
 /*URL for the server logo
 Leave it blank to use text instead
 (Put the files in the images folder)*/
-var l_serverImage = "Zealot_Gaming_Logo_1000x1000.png";
+var l_serverImage = "";
 
 /*Custom server name configuration
 Leave it blank for automatic server name*/
