@@ -10,7 +10,7 @@
 /*URL for the server logo
 Leave it blank to use text instead
 (Put the files in the images folder)*/
-var l_serverImage = "";
+var l_serverImage = "57b49c8b70100e4bfcc9d9bc2bb1c933.png";
 
 /*Custom server name configuration
 Leave it blank for automatic server name*/
