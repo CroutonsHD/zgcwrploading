@@ -53,11 +53,11 @@ Place one or more images
 Multiple images will automatically shuffle between them
 (Put the files in the backgrounds/images folder)*/
 var l_bgImages = [
-	"resident-evil-operation-raccoon-city-20169.jpg",
-	"Resident-Evil-Operation-Raccoon-City_1920x1080 (1).jpg",
-	"apocalypse-2459465.jpg",
-	"aJc82vC.jpg",
-	"zombie-image_062451784_308.jpg"
+	"yoda.jpg",
+	"cody.jpg",
+	"501st.jpg",
+	"Clone-Trooper-Wallpaper-1920x1080-3.jpg",
+	"clonecommand0.jpg"
 ];
 
 /*Random background images order?*/
@@ -91,11 +91,11 @@ var l_musicDisplay = true;
 Place how much .ogg songs you want
 (Put the files in the songs folder)*/
 var l_musicPlaylist = [
-	{youtube: "NcF0QMPVCDg", name: "Last Of Us Title Screen"},
-	{youtube: "sDH1LyCIrAE&t", name: "Apocalyptic Music"},
-	{youtube: "v29KVjUXiS8", name: "Calm Apocalyptic Music"},
-	{youtube: "Es3GQMOLHkk", name: "Metro Exodus"},
-	{youtube: "4V6nFSX7hPs", name: "Somnus"},
+	{youtube: "4AqWUB2mFPU", name: "There is a Force"},
+	{youtube: "f2oMkN3Sfiw", name: "Anakin's Symphony"},
+	{youtube: "GIly2qpk234", name: "KOTOR Relaxing"},
+	{youtube: "EETFlPEnBh4", name: "Somnus"},
+	{youtube: "_0H91IGCsEI", name: "EA Battlefront 2 Theme"},
 ];
 
 /*Random music order?*/
