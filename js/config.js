@@ -53,11 +53,11 @@ Place one or more images
 Multiple images will automatically shuffle between them
 (Put the files in the backgrounds/images folder)*/
 var l_bgImages = [
-	"yoda.jpg",
-	"cody.jpg",
-	"501st.jpg",
-	"Clone-Trooper-Wallpaper-1920x1080-3.jpg",
-	"clonecommand0.jpg"
+	"dead-space-3-16862-1920x1080.jpg",
+	"mass_effect_andromeda_4k-1920x1080.jpg",
+	"mass-effect-3-striking-the-reaper.jpg",
+	"space_planet-1920x1080.jpg",
+	"uu16Fie.jpg"
 ];
 
 /*Random background images order?*/
@@ -91,11 +91,11 @@ var l_musicDisplay = true;
 Place how much .ogg songs you want
 (Put the files in the songs folder)*/
 var l_musicPlaylist = [
-	{youtube: "4AqWUB2mFPU", name: "There is a Force"},
-	{youtube: "f2oMkN3Sfiw", name: "Anakin's Symphony"},
-	{youtube: "GIly2qpk234", name: "KOTOR Relaxing"},
+	{youtube: "D-89JKkP9ts", name: "Through the Relay"},
+	{youtube: "CSQbUbQ2w-E", name: "Hearts"},
+	{youtube: "fUtcLbxTa34", name: "Flute Theme"},
 	{youtube: "EETFlPEnBh4", name: "Somnus"},
-	{youtube: "_0H91IGCsEI", name: "EA Battlefront 2 Theme"},
+	{youtube: "_r1iaQvdwQk", name: "Last of Us"},
 ];
 
 /*Random music order?*/
