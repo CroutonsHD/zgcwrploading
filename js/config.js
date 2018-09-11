@@ -113,7 +113,7 @@ var l_messages = [
 	"Welcome to Zealot Gaming and thank you for choosing us!",
 	"Thanks for joining us! We hope you enjoy your stay!",
 	"Interested in Lore Master or Staff? Apply at our forums!",
-	"Think something is wrong with the server, we appreciate all the feedback we can get!",
+	"The server contains numorous addons for a positive experience, please be patient as the download may take a long time!",
 ];
 
 /*Random message order?*/
