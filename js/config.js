@@ -10,7 +10,7 @@
 /*URL for the server logo
 Leave it blank to use text instead
 (Put the files in the images folder)*/
-var l_serverImage = "57b49c8b70100e4bfcc9d9bc2bb1c933.png";
+var l_serverImage = "bbe5a804b60c1e5cdbe7b32e182a9f7f.png";
 
 /*Custom server name configuration
 Leave it blank for automatic server name*/
@@ -53,11 +53,11 @@ Place one or more images
 Multiple images will automatically shuffle between them
 (Put the files in the backgrounds/images folder)*/
 var l_bgImages = [
-	"dead-space-3-16862-1920x1080.jpg",
-	"mass_effect_andromeda_4k-1920x1080.jpg",
-	"mass-effect-3-striking-the-reaper.jpg",
-	"space_planet-1920x1080.jpg",
-	"uu16Fie.jpg"
+	"48468-star-destroyer-star-wars-1920x1080-movie-wallpaper.jpg",
+	"battle_of_jakku_star_wars_battlefront-1920x1080.jpg",
+	"ws_Darth_Vader_1920x1080.jpg",
+	"star-wars-wallpapers-backgrounds-clone-trooper-wallpaper.jpg",
+	"star-wars-stormtrooper-4k-1920x1080.jpg"
 ];
 
 /*Random background images order?*/
@@ -82,10 +82,10 @@ var l_bgDarkening = 50;
 
 /*Music player
 'true' or 'false' to enable music in the background*/
-var l_music = true;
+var l_music = false;
 
 /*Display actual song's name?*/
-var l_musicDisplay = true;
+var l_musicDisplay = false;
 
 /*Music playlist
 Place how much .ogg songs you want
@@ -110,9 +110,10 @@ var l_messagesEnabled = true;
 
 /*Enter your custom messages below*/
 var l_messages = [
-	"Welcome to Zealot Gaming and thank you for choosing us!",
+	"Welcome to Maiorem Gaming and thank you for choosing us!",
 	"Thanks for joining us! We hope you enjoy your stay!",
-	"Interested in Lore Master or Staff? Apply at our forums!",
+	"Interested in Commander or Staff? Apply at our Discord!",
+	"Full list of rules on our Discord, make sure you follow them all!",
 	"The server contains numorous addons for a positive experience, please be patient as the download may take a long time!",
 ];
 
