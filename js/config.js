@@ -57,7 +57,8 @@ var l_bgImages = [
 	"battle_of_jakku_star_wars_battlefront-1920x1080.jpg",
 	"ws_Darth_Vader_1920x1080.jpg",
 	"star-wars-wallpapers-backgrounds-clone-trooper-wallpaper.jpg",
-	"star-wars-stormtrooper-4k-1920x1080.jpg"
+	"star-wars-bounty-hunter.jpg.e6d8e23fb1139c28941c9aae75004da6.jpg",
+	"YVFJlsM.jpg"
 ];
 
 /*Random background images order?*/
